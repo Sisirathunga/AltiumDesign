@@ -1,0 +1,4 @@
+Description,Designator,Footprint,LibRef,Quantity,Category
+,,,,,
+"Wafer: , Tin Overall, Straight w/ Type 1 Kinked End Pins, 1x2 Pos (2 pins)",J1,DIP1x2,SWR201-NRTN-S02-SA-WH,1,Connectors
+Res Thkflm 0402 360K Ohm 0.5% 1/16W 50PPM/ C SMD,"R1, R2",R0805,RGC0402DTC360K,2,Chip SMD Resistors
